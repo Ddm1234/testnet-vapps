@@ -1,1 +1,67 @@
+# vApp Submission: [dharam vapp]
 
+## Verification
+```yaml
+github_username: "Ddm1234"
+discord_id: "868238528490909817"
+timestamp: "2025-08-25"
+```
+
+## Developer
+- **Name**: dharam makavana 
+- **GitHub**: Ddm1234
+- **Discord**: dharam_1998
+- **Experience**: just started learning GitHub 
+
+## Project
+
+### Name & Category
+- **Project**: dharam vapp
+- **Category**: identity/defi/social/gaming/infrastructure/other
+
+### Description
+it gives me a discord role probably sound dev
+
+### SL Integration  
+no idea at all for now 
+
+## Technical
+
+### Architecture
+High-level system design and approach
+
+### Stack
+- **Frontend**: React/Vue/etc
+- **Backend**: Rust/Node.js/Python/etc  
+- **Blockchain**: SL + others
+- **Storage**: Database/WALRUS/IPFS/etc
+
+### Features
+1. Core feature 1
+2. Core feature 2  
+3. Core feature 3
+
+## Timeline
+
+### PoC (2-4 weeks)
+- [ ] Basic functionality
+- [ ] SL integration
+- [ ] Simple UI
+
+### MVP (4-8 weeks)  
+- [ ] Full features
+- [ ] Production ready
+- [ ] User testing
+
+## Innovation
+What makes this unique? Why will people use it?
+
+## Contact
+Preferred contact method and where you'll share updates.
+
+
+**Checklist before submitting:**
+- [ ] All fields completed
+- [ ] GitHub username matches PR author  
+- [ ] SL integration explained
+- [ ] Timeline is realistic
